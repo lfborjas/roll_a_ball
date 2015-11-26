@@ -1,0 +1,5 @@
+builds
+Library/ShaderCache
+Library/*compiler*
+Library/ScriptAssemblies/*
+Temp
